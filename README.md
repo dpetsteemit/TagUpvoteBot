@@ -7,4 +7,5 @@ POSTING_KEY=<PRIVATE_POSTING_KEY> python3 bot.py config.json
 ```
 
 ### About Dpet
+Steemit: https://steemit.com/@dpet
 Discord: https://discord.gg/GYrnsNm
