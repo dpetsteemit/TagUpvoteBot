@@ -1,0 +1,14 @@
+{
+    "NODES": ["https://api.steemit.com"],
+    "BOT_ACCOUNT": "dpet",
+    "TAG": "dailypetphotography",
+    "MINIMUM_VP_TO_START": 70,
+    "VOTE_WEIGHT": 20,
+    "VOTE_COUNT": 100,
+    "MINIMUM_AUTHOR_REP": 25,
+    "MINIMUM_WORD_COUNT":10,
+    "BLACKLIST": [],
+    "POST_REPLY_TEMPLATE":"replyTemplate.md",
+    "MINIMUM_POST_AGE_MIN":20,
+    "MAXIMUM_POST_REWARDS":100
+  }

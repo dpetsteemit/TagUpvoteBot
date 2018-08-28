@@ -1,0 +1,7 @@
+__pycache__/
+run.txt
+active.txt
+posting.txt
+masterkey.txt
+.vscode/
+test_tagbot
